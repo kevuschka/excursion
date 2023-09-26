@@ -1,0 +1,47 @@
+*,
+*:before,
+*:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    text-align: center;
+}
+
+#bigTitle {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+.title {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.smallTitle {
+    color: gray;
+    font-size: 21px;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+#footer {
+    text-align: end;
+}
+
+
+
